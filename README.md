@@ -1,4 +1,3 @@
-Snake-and-ladder-game-in-C
 
 C program for creating & simulating a Snake & Ladder Game.
 
